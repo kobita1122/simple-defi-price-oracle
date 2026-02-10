@@ -1,0 +1,7 @@
+{
+  "name": "simple-defi-price-oracle",
+  "version": "1.0.0",
+  "dependencies": {
+    "@chainlink/contracts": "^0.8.0"
+  }
+}
